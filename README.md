@@ -1,7 +1,8 @@
-# GAIH Student Repo Example
+# GAIH Student Repo
 ![](img/logo.png)
 
 **Course Date:** January 4, 2021
+
 **Name:** Ayesha   
 **Surname:** Akhtar  
 **Email:** ayesha.akhtar209@gmail.com  
